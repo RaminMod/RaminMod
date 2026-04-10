@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ramin 👋
 
-<!--
-**RaminMod/RaminMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Engineer based in Stockholm  
+⚡ Working with Azure, Databricks, and scalable data pipelines  
+🤖 Interested in AI, LLMs, and real-world data applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python
+- SQL
+- Databricks
+- Azure
+- Spark
+
+---
+
+## 🚀 Projects
+- RAG System with Azure OpenAI
+- Data Pipeline Projects
+- Machine Learning Classification
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/ramin-modaresi
